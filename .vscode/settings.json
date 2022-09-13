@@ -1,0 +1,7 @@
+{
+    "window.zoomLevel": 1.5,
+    "code-runner.runInTerminal": true,
+    "code-runner.executorMap": {
+        "typescript": "npx ts-node --files --transpile-only",
+    }
+}
